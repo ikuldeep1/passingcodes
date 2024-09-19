@@ -1,0 +1,2 @@
+https://webapp-shs-az-eus-pim-npd.azurewebsites.net/
+https://portal.azure.com/#@BD1.onmicrosoft.com/resource/subscriptions/e8eeda59-d6ed-4fd6-b693-e03a6ea0d8fc/resourceGroups/RG-TGS-SHS-AZ-EUS-PIM-AI-NONPROD/overview
